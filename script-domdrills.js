@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
         h1.style.color = colorChange;
     });
 
-    h2.addEventListener('click', function () {
+    h2.add('click', function () {
         let colorChange = getColorChange();
         h2.style.color = colorChange;
     });
