@@ -1,2 +1,12 @@
-
-
+.square {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 2px;
+    border: 2px solid blue;
+    font-size: 4em;
+    font-display: center;
+    text-align: center;
+    color: aqua;
+    
+}
